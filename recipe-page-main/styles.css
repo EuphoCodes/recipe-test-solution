@@ -100,13 +100,13 @@ li::marker {
     font-size: 1.1em;
 }
 
-.Nutrition {
+.nutrition {
     font-family: "Outfit";
     font-weight: 400;
     color: hsl(30, 10%, 34%);
     padding: 1rem;
 }
-.Nutrition h2 {
+.nutrition h2 {
     font-family: "Young Serif";
     font-weight: 400;
     color: hsl(14, 45%, 36%);
@@ -125,9 +125,9 @@ th.item {
     color: hsl(30, 10%, 34%);
 }
 
-th.value {
+td.value {
     color: hsl(30, 10%, 34%);
-    font-weight: 00;
+    font-weight: 700;
 }
 
 th, td {
